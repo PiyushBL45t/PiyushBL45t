@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.askppython.com](https://www.askppython.com)
 
-- 💬 Ask me about **Python and Java**
+- 💬 You can ask me about **Python, Java, Blogging, Machine Learning, C programming and Content Development**
 
 - 📫 How to reach me **bhujbalpiyush@gmail.com, piyushbhujbal123@gmail.com**
 
