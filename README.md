@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushbl45t" alt="piyushbl45t" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Basics of ML and Flask**
 
 - 📝 I regularly write articles on [https://www.askppython.com](https://www.askppython.com)
 
