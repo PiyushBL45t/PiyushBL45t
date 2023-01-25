@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Basics of ML and Flask**
 
-- 📝 I regularly write articles on [https://www.askppython.com](https://www.askppython.com)
+- 📝 Read my blogs written on various Python topics here: [https://www.askpython.com/author/piyush](https://www.askpython.com/author/piyush/)
 
 - 💬 You can ask me about **Python, Java, Blogging, Machine Learning, C programming and Content Development**
 
