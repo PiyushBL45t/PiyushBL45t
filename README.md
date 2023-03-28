@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushbl45t" alt="piyushbl45t" /></a> </p>
 
-- 🌱 I’m currently learning **Basics of ML and Flask**
+- 🌱 I’m currently studying **Deep Learning**
 
 - 📝 Read my blogs written on various Python topics here: [https://www.askpython.com/author/piyush](https://www.askpython.com/author/piyush/)
 
-- 💬 You can ask me about **Python, Java, Blogging, Machine Learning, C programming and Content Development**
+- 💬 You can ask me about **Python, Java, Blogging, Machine Learning, C programming and Technical Content Development**
 
 - 📫 How to reach me **bhujbalpiyush@gmail.com, piyushbhujbal123@gmail.com**
 
