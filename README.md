@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushbl45t" alt="piyushbl45t" /></a> </p>
 
-- 🌱 I’m currently studying **Deep Learning**
+- 💻 Currently working as a **Software Engineer**
 
 - 📝 Read my blogs written on various Python topics here: [https://www.askpython.com/author/piyush](https://www.askpython.com/author/piyush/)
 
