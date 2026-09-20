@@ -1,7 +1,16 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Piyush Bhujbal - Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Piyush%20Bhujbal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Python%20Enthusiast%20%E2%80%A2%20Technical%20Writer&descSize=18&descAlignY=58" width="100%" alt="Header banner" />
+
+<a href="https://github.com/piyushbl45t">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=640&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyush!;A+passionate+programmer+%F0%9F%92%BB;I+write+about+Python+%26+Machine+Learning+%F0%9F%93%9D;Turning+ideas+into+clean+code+%E2%9C%A8" alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=piyushbl45t&label=Profile%20Views&style=for-the-badge&color=6f42c1" alt="Profile views" />
+<a href="https://github.com/piyushbl45t?tab=followers"><img src="https://img.shields.io/github/followers/piyushbl45t?style=for-the-badge&logo=github&color=00b4d8&labelColor=0d1117" alt="Followers" /></a>
 
 </div>
 
@@ -9,6 +18,10 @@
 
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```yaml
 name:       Piyush Bhujbal
@@ -25,6 +38,11 @@ ask_me_about:
   - Technical Content Development
 ```
 
+</td>
+
+</tr>
+</table>
+
 - 💻 Currently working as a **Software Engineer**
 - 📝 I write tutorials on Python and more at **[AskPython](https://www.askpython.com/author/piyush/)**
 - 💬 Ask me about **Python, Java, Blogging, Machine Learning, C Programming** and **Technical Content Development**
@@ -36,21 +54,11 @@ ask_me_about:
 
 <div align="center">
 
-<img src="./assets/icons/python.svg" alt="Python" title="Python" width="48" height="48" />
-<img src="./assets/icons/java.svg" alt="Java" title="Java" width="48" height="48" />
-<img src="./assets/icons/c.svg" alt="C" title="C" width="48" height="48" />
-<img src="./assets/icons/cplusplus.svg" alt="C++" title="C++" width="48" height="48" />
-<img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="48" height="48" />
-<img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
-<img src="./assets/icons/html5.svg" alt="HTML5" title="HTML5" width="48" height="48" />
-<img src="./assets/icons/css3.svg" alt="CSS3" title="CSS3" width="48" height="48" />
-<img src="./assets/icons/flask.svg" alt="Flask" title="Flask" width="48" height="48" />
-<img src="./assets/icons/pandas.svg" alt="Pandas" title="Pandas" width="48" height="48" />
-<img src="./assets/icons/scikitlearn.svg" alt="scikit-learn" title="scikit-learn" width="48" height="48" />
-<img src="./assets/icons/opencv.svg" alt="OpenCV" title="OpenCV" width="48" height="48" />
-<img src="./assets/icons/sqlite.svg" alt="SQLite" title="SQLite" width="48" height="48" />
-<img src="./assets/icons/git.svg" alt="Git" title="Git" width="48" height="48" />
-<img src="./assets/icons/linux.svg" alt="Linux" title="Linux" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,kotlin,js&theme=dark" alt="Languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,pandas,sklearn,opencv,sqlite&theme=dark" alt="Frameworks and libraries" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,linux&theme=dark" alt="Web and tools" />
 
 </div>
 
@@ -61,33 +69,9 @@ ask_me_about:
 
 <div align="center">
 
-<img src="./assets/stats.svg" width="49%" alt="GitHub stats" />
-<img src="./assets/langs.svg" width="49%" alt="Top languages" />
-
-</div>
-
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="./assets/trophies.svg" width="98%" alt="Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ===================== ACTIVITY ===================== -->
-## 📈 Contribution Activity
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=piyushbl45t&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="./assets/activity.svg" width="98%" alt="Recent activity" />
 
 </div>
 
@@ -113,7 +97,7 @@ I share Python tutorials and technical articles on **AskPython**.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/piyush-bhujbal-7255982a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://www.linkedin.com/in/piyush-bhujbal-7255982a4/](https://www.linkedin.com/in/piyush-bhujbal-7255982a4/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:bhujbalpiyush@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary email" /></a>
 <a href="mailto:piyushbhujbal123@gmail.com"><img src="https://img.shields.io/badge/Alt%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Alternate email" /></a>
 <a href="https://www.askpython.com/author/piyush/"><img src="https://img.shields.io/badge/AskPython-Blog-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Blog" /></a>
@@ -125,8 +109,4 @@ I share Python tutorials and technical articles on **AskPython**.
 </div>
 
 <!-- ===================== FOOTER ===================== -->
-<div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="Footer banner" />
